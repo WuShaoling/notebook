@@ -14,13 +14,11 @@
 				{
 					"title": "第一页",
 					"text": "scenario/ep1/1.md",
-					"program": "scripts/bg.sh",
 					"extraTab":"[domain]:[:8888]/notebooks/ep1_1.ipynb"
 				},
 				{
 					"title": "第二页",
 					"text": "scenario/ep1/2.md",
-					"program": "scripts/bg.sh",
 					"extraTab":"[domain]:[:8888]/notebooks/ep1_2.ipynb"
 				}
 			]
